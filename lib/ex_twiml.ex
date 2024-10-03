@@ -78,6 +78,7 @@ defmodule ExTwiml do
 
     # Non-nested
     :application,
+    :application_sid,
     :say,
     :number,
     :play,
