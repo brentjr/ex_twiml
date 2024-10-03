@@ -77,6 +77,7 @@ defmodule ExTwiml do
     :task,
 
     # Non-nested
+    :application,
     :say,
     :number,
     :play,
